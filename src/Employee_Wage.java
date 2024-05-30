@@ -35,7 +35,7 @@ public class Employee_Wage {
     }
 
     public static void main(String[] args) {
-
+//Working
         Employee_Wage emp1 = new Employee_Wage();
         System.out.println(emp1.calculateEmployeeWage("Nokia", 400, 25, 150));
 
